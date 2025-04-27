@@ -37,3 +37,4 @@ jobs:
           sw_vers
           clang++ --version
           xcode-select -p
+          ls -lh /Library/Developer
