@@ -40,3 +40,4 @@ jobs:
           ls -lh /Library/Developer
           sudo xcode-select -s /Library/Developer/CommandLineTools
           xcode-select -p
+          clang++ --version
