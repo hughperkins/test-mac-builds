@@ -38,3 +38,5 @@ jobs:
           clang++ --version
           xcode-select -p
           ls -lh /Library/Developer
+          sudo xcode-select -s /Library/Developer/CommandLineTools
+          xcode-select -p
