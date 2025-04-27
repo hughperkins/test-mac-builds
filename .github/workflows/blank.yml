@@ -36,3 +36,4 @@ jobs:
           echo test, and deploy your project.
           sw_vers
           clang++ --version
+          xcode-select -p
